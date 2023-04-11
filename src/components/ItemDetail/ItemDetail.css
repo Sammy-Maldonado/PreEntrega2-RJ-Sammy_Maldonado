@@ -1,0 +1,14 @@
+.contenedorItem {
+    text-align: center;
+    border: solid 1px #efefee;
+    margin: 3rem;
+}
+
+.img__itemDetail {
+    width: 50vw;
+}
+
+.bullets_container {
+    justify-items: center;
+    text-align: start;
+}

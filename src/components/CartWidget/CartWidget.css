@@ -1,0 +1,8 @@
+.carritoDeCompras {
+    width: 3rem;
+}
+
+.carrito-container {
+    display: flex;
+    align-items: flex-end;
+}

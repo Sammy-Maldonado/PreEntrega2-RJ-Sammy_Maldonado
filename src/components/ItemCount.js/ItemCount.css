@@ -1,0 +1,28 @@
+.ItemCount_container {
+    width: 300px;
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+}
+
+.btn_container {
+    padding: 0 20px;
+}
+
+.btn_border {
+    border-top: 1px rgb(195, 192, 192) solid;
+    border-bottom: 1px rgb(195, 192, 192) solid;
+    border-radius: 5px;
+    width: 100%;
+    background-color: rgb(246, 245, 245);
+}
+
+button {
+    border-radius: 5px;
+    background-image: linear-gradient(to bottom, rgb(181, 245, 243), white);
+    box-shadow: 4px 4px 10px -5px;
+    border: 1px solid rgb(195, 192, 192);
+}
+
+.btn1 {
+    width: 2rem;
+}

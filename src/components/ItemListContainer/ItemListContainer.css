@@ -1,0 +1,10 @@
+.ItemListContainer__h2 {
+    font-style: italic;
+    text-shadow: 5px 5px 15px #a2e0f7;
+    background-image: linear-gradient(to bottom, rgb(51, 248, 242), white);
+    background-clip: text;
+    color: transparent;
+    font-size: 3rem;
+    line-height: normal;
+    -webkit-text-stroke: 0.6px black;
+}
